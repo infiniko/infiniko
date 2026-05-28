@@ -28,8 +28,8 @@ Frontend Developer crafting scalable, accessible web applications. I specialize 
 
 ## 📌 Featured Projects (URL links soon)
 
-### 🪑 Decora — Full-Stack Furniture App
-A furniture marketplace with admin and user roles, built with **Next.js**, **TypeScript**, **Supabase**, and **Clerk** — featuring product management, shopping cart, favorites, and customer reviews.
+### 🪑 Decora - Full-Stack Furniture App
+A furniture marketplace with admin and user roles, built with **Next.js**, **TypeScript**, **Supabase**, and **Clerk** - featuring product management, shopping cart, favorites, and customer reviews.
 
 
 ### 📊 Analytics Dashboard
