@@ -22,7 +22,7 @@ Frontend Developer crafting scalable, accessible web applications. I specialize 
 
 **Frameworks & Libraries**
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,graphql,angular,vite)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,tailwind,graphql,angular,vite)
 
 ---
 
