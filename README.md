@@ -8,8 +8,8 @@
 Frontend Developer crafting scalable, accessible web applications. I specialize in React, Next.js, and TypeScript with a strong focus on performance optimization, clean architecture, and meaningful user experiences.
 
 - 🏢 Currently working on React, JavaScript, Next.js, Node.js, and TypeScript.
-- ⚡ Passionate about performance — virtualization, lazy loading, bundle optimization
-- 🧠 Strong grasp of state management — Redux, Zustand, React Query
+- ⚡ Passionate about performance - virtualization, lazy loading, bundle optimization
+- 🧠 Strong grasp of state management - Redux, Zustand, React Query
 - 🌱 Exploring full-stack patterns with **Next.js & Supabase**
 
 ---
